@@ -10,8 +10,6 @@ editions:
     config:
       bind: 0.0.0.0:25565
       servers:
-        server1: localhost:25566
-        server2: localhost:25567
+        server1: 141.95.118.143:25565
       try:
         - server1
-        - server2
